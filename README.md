@@ -295,8 +295,8 @@ This project is open source and available
 ## Author
 
 **Mahmoud7111**
+**omar-abass**
 - GitHub: [@Mahmoud7111](https://github.com/Mahmoud7111)
-- ل
 - GitHub:omar-abass
 
 ## Acknowledgments
