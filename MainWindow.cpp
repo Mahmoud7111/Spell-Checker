@@ -3,6 +3,8 @@
 #include <QBrush>
 #include <QColor>
 
+
+
 //constructor
 MainWindow::MainWindow(QWidget* parent)
     : QMainWindow(parent)
