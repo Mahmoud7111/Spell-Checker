@@ -11,8 +11,10 @@ SpellChecker::TrieNode::TrieNode() : isEndOfWord(false) {
 }
 
 SpellChecker::TrieNode::~TrieNode() {
+    
     for (int i = 0; i < 26; i++)
         delete children[i];
+    
 }
 
 
@@ -229,7 +231,7 @@ SpellChecker::getSuggestions(const string& word,
 
         int d = levenshtein(lower, allWords.data[i]);   //Compute edit distance between input and dictionary word
 
-        if (d <= maxDistance) {                     //Only keep “close enough” words
+        if (d <= maxDistance) {                     //Only keep â€œclose enoughâ€ words
             allWords.data[count] = allWords.data[i];
             distances[count] = d;   //Store their distances in parallel array
             count++;
