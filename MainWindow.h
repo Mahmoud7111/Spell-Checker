@@ -12,6 +12,7 @@
 #include <QStatusBar>
 
 
+
 class MainWindow : public QMainWindow
 {
     Q_OBJECT
@@ -37,10 +38,13 @@ private:
     QPushButton* autoCompleteButton;
     QListWidget* autoCompleteListWidget;
 
+
     QStatusBar* statusbar;
+
 
     void loadDictionary();
     bool isValidInput(const QString& text);
 };
+
 
 
