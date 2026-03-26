@@ -1,9 +1,11 @@
 ﻿#pragma once
 
 #include <string>
+
 using namespace std;
 
 class SpellChecker {
+
 public:
     struct StringArray {  //Temporarily hold a list of results that we can return or display (suggestions / auto-complete / ...)
         string* data;
@@ -13,6 +15,7 @@ public:
         StringArray();
         ~StringArray();
         void pushBack(const string& value);
+
     };
 
 private:
