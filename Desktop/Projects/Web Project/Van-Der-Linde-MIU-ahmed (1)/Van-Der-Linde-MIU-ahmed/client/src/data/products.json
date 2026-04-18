@@ -1,0 +1,74 @@
+﻿[
+  {
+    "_id": "watch-001",
+    "name": "Van Der Linde Sovereign Tourbillon",
+    "brand": "Van Der Linde",
+    "price": 2499,
+    "category": "luxury",
+    "rating": 4.9,
+    "numReviews": 124,
+    "stock": 8,
+    "images": ["@/assets/images/Watches/Tank Louis Cartier.png"],
+    "description": "A flagship gold-accent mechanical piece with skeleton dial craftsmanship and premium sapphire durability for formal occasions."
+  },
+  {
+    "_id": "watch-002",
+    "name": "Van Der Linde Nocturne Chronograph",
+    "brand": "Van Der Linde Noir",
+    "price": 1899,
+    "category": "luxury",
+    "rating": 4.8,
+    "numReviews": 93,
+    "stock": 11,
+    "images": ["@/assets/images/Watches/Cartier Tank Must.png"],
+    "description": "A deep black chronograph with brass details, tachymeter bezel, and precision movement engineered for executive styling."
+  },
+  {
+    "_id": "watch-003",
+    "name": "Van Der Linde Velocity Pro",
+    "brand": "Van Der Linde Sport",
+    "price": 799,
+    "category": "sport",
+    "rating": 4.6,
+    "numReviews": 157,
+    "stock": 26,
+    "images": ["@/assets/images/Watches/Santos de Cartier.png"],
+    "description": "A sport-focused model with shock resistance, water protection, and high-contrast lume for active lifestyles."
+  },
+  {
+    "_id": "watch-004",
+    "name": "Van Der Linde Heritage Slim",
+    "brand": "Van Der Linde",
+    "price": 1199,
+    "category": "classic",
+    "rating": 4.7,
+    "numReviews": 81,
+    "stock": 19,
+    "images": ["@/assets/images/Watches/Rolex GMT-Master II.png"],
+    "description": "A timeless minimalist case with Roman markers and refined leather strap inspired by mid-century watchmaking."
+  },
+  {
+    "_id": "watch-005",
+    "name": "Van Der Linde Imperial Date",
+    "brand": "Van Der Linde Heritage",
+    "price": 999,
+    "category": "classic",
+    "rating": 4.5,
+    "numReviews": 64,
+    "stock": 14,
+    "images": ["@/assets/images/Watches/Jacob & Co Astronomia Triple Axis Tourbillon.png"],
+    "description": "Classic dress aesthetics with date aperture, polished case architecture, and balanced proportions for daily elegance."
+  },
+  {
+    "_id": "watch-006",
+    "name": "Van Der Linde Pulse Connected",
+    "brand": "Van Der Linde Smart",
+    "price": 299,
+    "category": "smart",
+    "rating": 4.4,
+    "numReviews": 219,
+    "stock": 42,
+    "images": ["@/assets/images/Watches/De Ville Tresor.png"],
+    "description": "A smart hybrid watch with health tracking, message sync, and multi-day battery presented in premium materials."
+  }
+]

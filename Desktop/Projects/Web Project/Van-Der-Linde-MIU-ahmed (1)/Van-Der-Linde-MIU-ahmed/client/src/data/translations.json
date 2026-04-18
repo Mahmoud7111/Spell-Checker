@@ -1,0 +1,32 @@
+﻿{
+  "en": {
+    "nav.shop": "Shop",
+    "nav.collections": "Collections",
+    "nav.about": "About",
+    "nav.cart": "Cart",
+    "btn.addToCart": "Add to Cart",
+    "btn.buyNow": "Buy Now",
+    "cart.empty": "Your cart is empty.",
+    "product.outOfStock": "Out of stock",
+    "checkout.shipping": "Shipping",
+    "checkout.payment": "Payment",
+    "checkout.review": "Review",
+    "header.search": "Search watches...",
+    "footer.newsletter": "Subscribe to our newsletter"
+  },
+  "ar": {
+    "nav.shop": "المتجر",
+    "nav.collections": "المجموعات",
+    "nav.about": "من نحن",
+    "nav.cart": "السلة",
+    "btn.addToCart": "أضف إلى السلة",
+    "btn.buyNow": "اشتر الآن",
+    "cart.empty": "سلة التسوق فارغة.",
+    "product.outOfStock": "غير متوفر",
+    "checkout.shipping": "الشحن",
+    "checkout.payment": "الدفع",
+    "checkout.review": "المراجعة",
+    "header.search": "ابحث عن الساعات...",
+    "footer.newsletter": "اشترك في النشرة البريدية"
+  }
+}
